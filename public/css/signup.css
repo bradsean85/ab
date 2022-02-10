@@ -102,3 +102,15 @@ input[type="email"]{
 .checkbox:checked::after{
     display: block;
 }
+
+label{    
+    text-transform: capitalize;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #383838;
+}
+
+label a{
+    color: #383838;
+}
